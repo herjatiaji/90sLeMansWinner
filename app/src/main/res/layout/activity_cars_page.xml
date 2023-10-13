@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream"
+    tools:context=".CarsPage">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="30dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/cars"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="cars"
+                android:fontFamily="@font/alfa_slab_one"
+                android:textColor="#009688"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/year"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="textStart"
+                android:textSize="20sp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="year"
+                android:textColor="#F44336" />
+            <ImageView
+                android:layout_width="match_parent"
+                android:scaleType="centerCrop"
+                android:layout_height="170dp"
+                android:id="@+id/imgview"
+                android:background="@drawable/ic_launcher_background"/>
+
+
+            <TextView
+                android:id="@+id/detail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|end"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/volkhov"
+                android:justificationMode="inter_word"
+                android:text="@string/isi_dummy"
+                android:textColor="#252525" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

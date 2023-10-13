@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">90sLeMansWinner</string>
+    <string name="isi_dummy">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</string>
+    <string-array name="data_name">
+        <item>Jaguar XJR 12</item>
+        <item>Mazda 787b</item>
+        <item>Peugeot 905 Evo 1 Bis</item>
+        <item>Peugeot 905 Evo 1 Bis</item>
+        <item>Dauer 962 LM Sport</item>
+        <item>McLaren F1 GTR</item>
+        <item>Porsche TWR WSC95</item>
+        <item>Porsche TWR WSC95</item>
+        <item>Porsche 911 GT1 98</item>
+        <item>BMW V12 LMR</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>As the Group 44 effort faded at the end of 1987, Jaguar commissioned TWR to also campaign their latest XJR-9 in the IMSA GTP in 1988. Again there were only detail changes and one of both the XJR-6 and XJR-8 chassis were upgraded to join the new XJR-9s in the 1988 season. TWR Jaguar again dominated the Word Championship and now also added IMSA\'s Daytona 24 Hours to the team\'s tally. Taking a page from Porsche\'s book, five cars were fielded at Le Mans. This was made possible by IMSA GTP effort and two cars were ran by the team that spent the rest of the season in North America.
+
+During the race, the five Jaguars gradually fought their way to the top until the first car retired with transmission problems eight hours in the race. Eleven hours later a head gasket on the second car failed. All was not lost as Jan Lammers led the race in one of the three surviving examples. Tragedy almost struck when the car suffered from the same transmission problems as the first retiree, but Lammers noticed it in time and left the car in fourth gear to complete the race two minutes ahead of the fastest Porsche. If he had only changed gears once, the transmission would have died and with it the dream of Jaguar\'s sixth Le Mans win. Lammers took the win together with Andy Wallace and John Dumfries.
+
+After using the same basic chassis design for three years, TWR set about developing two brand new cars for 1989; the XJR-10 and XJR-11 for IMSA and Group C respectively. Both featured a Turbocharged V6 engine of 3 and 3.5 litre displacement. The XJR-10 car was moderately successful, but with one victory the XJR-11 was not a worthy replacement for the XJR-9. Especially in long races, the V6 engine proved fragile and in 1990 the old V12 engine was brought back out for Le Mans. This XJR-12 proved successful once more and scored Jaguar\'s seventh and final win at Le Mans. </item>
+        <item>The Mazda 787 and its derivative 787B are Group C sports prototype racing cars that were developed by Japanese automobile manufacturer Mazda for use in the World Sportscar Championship, All Japan Sports Prototype Championship, and the 24 Hours of Le Mans from 1990 to 1991. Designed to combine a mixture of the Fédération Internationale du Sport Automobile (FISA) Group C regulations with the International Motor Sports Association (IMSA) GTP regulations, the 787s were the last Wankel rotary-powered racing cars to compete in the World and Japanese championships, using Mazda\'s R26B engine.
+
+Although the 787 and 787B lacked the single lap pace of World Championship competitors such as Mercedes-Benz, Jaguar, and Porsche, as well as Japanese Championship competitors Nissan and Toyota, the 787s had reliability that allowed them to contend for their respective championships. The reliability of the cars eventually paid off in 1991 when a 787B driven by Johnny Herbert, Volker Weidler, and Bertrand Gachot went on to victory in the 1991 24 Hours of Le Mans. As of 2023, this remains the only victory by a car not using a reciprocating engine design. It was the first victory by a Japanese manufacturer, and the only such victory until Toyota won the 2018 24 Hours of Le Mans.
+
+A total of two 787s were built in 1990, while three newer specification 787Bs were built in 1991    .</item>
+        <item>The Peugeot 905 is a sports-prototype racing car built by Peugeot\'s racing department, Peugeot Talbot Sport.
+
+        The car was initially unveiled in February 1990 and was developed throughout 1990 before making its race debut at the World Sportscar Championship in the final two races of the 1990 season (Montreal and Mexico City).
+
+            The car won the 24 Hours of Le Mans endurance race in 1992 with the team of Derek Warwick, Yannick Dalmas, and Mark Blundell. This win was followed in 1993 by the team of Geoff Brabham, Christophe Bouchut, and Éric Hélary, in the 905B. In addition to that, the car won both the driver/’s and the team/’s title at the World Sportscar Championship in the 1992 season.</item>
+        <item>Throughout the 1991 season Peugeot developed the heavily revised 905 \'Evolution 1 Bis\'. Apart from the monocoque chassis, no part of the car was left untouched. The most notable difference was the completely revised bodywork that had far fewer road going design cues. For high-downforce tracks a separate wing could be bolted onto the nose and the massive rear wing could just as well been taken off a World War I double-decker airplane. The engine was also revised and this SA35-A2 was good for an additional 20 bhp. Although the Evo 1 Bis did not win first time out, its debut at the 1991 Nürburgring (WssC) was a true turning point in the 905\'s racing career. In the subsequent Magny Cours and Mexico rounds of the championship, Peugeot scored convincing 1-2 victories. Peugeot finished second in the championship standings behind Jaguar, but ahead of defending champions Sauber Mercedes.
+        </item>
+        <item>As a driver and entrant, Jochen Dauer had been a very successful Porsche 962C proponent. As the legendary Group C car\'s career draw to a close, Dauer recognised its potential as the basis for a very high performance road car. In 1991, he acquired five unused 962C chassis from Porsche and started the development of what would become the Dauer 962 LM. Using Porsche chassis 962-169, the first road car was unveiled at the 1993 IAA in Frankfurt.
+
+During the development process, Porsche provided backdoor support in the form of parts and expertise. At the launch in Frankfurt, the project received closer inspection by Porsche motorsports engineer Norbert Singer. He discovered that the car could very well form the basis for a competition car as part of the new GT1 regulations. These required a road going version for homologation but a production run of one was sufficient. GT1 cars would be very much favoured over the existing Group C cars to encourage the development of new cars.
+
+With Singer at the helm, Porsche ramped up the involvement in the project and set about converting the Dauer 962 LM back into a racing car. Considering the car
+
+            s origins this was not a very complicated affair. Most of the work focused on the aerodynamics. Whereas the 962C had derived most of its downforce from the ground effect tunnels that ran on either side of the engine, the GT1 regulations stipulated that a flat bottom had to be used. This prompted a careful redesign of the bodywork but the car remained instantly recognisable as a 962.</item>
+        <item>
+Page 1 of 3 Next >>
+Click here to download printer friendly versionAlthough developed from the ground up as a road car, it was inevitable that every fibre of the McLaren F1 was laced with racing DNA. Having been assured several times that the car would not be track bound, designer Gordon Murray opted for comfort and practicality over raw performance in several crucial areas. Compromises were made, for example, to the size of the doors and the location and design of the suspension mounts. The result was a supercar that was not only as fast or even faster than its closest rivals but also more comfortable and practical. What was also almost inevitable, however, was that one of McLaren\'s customers would want to take his F1 racing.
+
+This customer was Ray Bellm, an experienced amateur racer. At the time he raced a Porsche in the popular BPR series for production based GT cars. His initial request for a racing version of the F1 was not surprisingly met with a resounding no. When he subsequently suggested to his friend and McLaren CEO Ron Dennis that he would take it upon himself to convert the road car he had on order, Bellm did get a slightly more favourable response. McLaren would build him and him alone a racing version for the princely sum of 1 million pounds. This was well out of Bellm\'s budget and Dennis eventually agreed to lower the prices if Bellm could find additional customers. He did not have to look beyond the list of future F1 road car owners to find them; German banker Dr. Thomas Bscher and l\'Oreal CEO Lyndsay Owen-Jones. With three firm orders in place, Murray set about turning the F1 into a GT racer.
+
+The new F1 GTR was built to the international GT1 regulations, which meant it would also be eligible for the 24 Hours of Le Mans. To balance out the performance of the many different types of cars, these regulations included a mandatory engine intake restrictor. In the case of the McLaren, this meant the power of the BMW V12 was down by nearly 30 bhp, despite the absence of the catalytic converters. Murray managed to lower the cars weight by around 120 kg by stripping out the interior, including the two passenger seats. The right hand side of the cockpit was filled with additional electronics and switches needed for racing. All rubber bushes were removed from the suspension for additional stiffness. Only a single day of wind-tunnel testing was allocated to the project with a modest wing on the tail as the most noticeable result.</item>
+        <item>
+            The end of the Group C and IMSA GTP era had left former rivals, Tom Walkinshaw Racing (who ran the Jaguar Group C and GTP efforts) and Porsche with very different but remarkably complementary problems. TWR was in the hunt for a new backer to continue operations in the company\'s American facility in Valparaiso, Indiana, while the strapped-for-cash Porsche could use a new sports racer as the basic 956/962 design dated back to 1981. As an added incentive, arch-rival Ferrari had returned to the arena with the 333 SP prototype racer.
+
+Through American Porsche specialist Andial\'s Alwin Springer, Porsche and TWR were introduced with the hopes of creating a car that could race against the new Ferrari in the American endurance racing classics; the Daytona 24 Hours and Sebring 12 Hours. In order to keep the costs to a minimum, TWR\'s Tony Dowe proposed to adapt the company\'s existing cutting-edge chassis, which had already been used for the Jaguar XJR-14 and Mazda MXR-01. The carbon-fibre monocoque was to be fitted with a spyder body to comply with the latest regulations and mated with the latest evolution of the Porsche 962 engine.
+
+        </item>
+        <item>
+             The end of the Group C and IMSA GTP era had left former rivals, Tom Walkinshaw Racing (who ran the Jaguar Group C and GTP efforts) and Porsche with very different but remarkably complementary problems. TWR was in the hunt for a new backer to continue operations in the company\'s American facility in Valparaiso, Indiana, while the strapped-for-cash Porsche could use a new sports racer as the basic 956/962 design dated back to 1981. As an added incentive, arch-rival Ferrari had returned to the arena with the 333 SP prototype racer.
+
+Through American Porsche specialist Andial\'s Alwin Springer, Porsche and TWR were introduced with the hopes of creating a car that could race against the new Ferrari in the American endurance racing classics; the Daytona 24 Hours and Sebring 12 Hours. In order to keep the costs to a minimum, TWR\'s Tony Dowe proposed to adapt the company\'s existing cutting-edge chassis, which had already been used for the Jaguar XJR-14 and Mazda MXR-01. The carbon-fibre monocoque was to be fitted with a spyder body to comply with the latest regulations and mated with the latest evolution of the Porsche 962 engine.
+
+        </item>
+        <item>
+
+Page 1 of 3 Next >>
+Click here to download printer friendly versionSince the heyday of the 956 and 962, Porsche had not fielded a Works racing team, but rather lend a (sometimes very big) hand in Porsche privateer efforts. A rare exception was the Dauer win at Le Mans with their modified 962 GT1 car, which was a Works effort in anything but name on the entry sheet. For the most part, the German manufacturer concentrated on producing a racing version of the current 911 model, the 993. At that time there were two GT classes; GT1 for heavily modified production cars and GT2 for relatively stock racers. Both classes required a production minimum of 25 examples per annum.
+
+Porsche\'s interest initially lay with the GT2 class, for which the current 993 model was relatively easily adapted. The likes of McLaren, Jaguar and Ferrari were left to tackle the GT1 class. In 1995 a number of the GT2 Porsches were modified in an attempt to promote them to the GT1 class with wider wheels and more power, but the gap was too wide to bridge. As a Porsche representative explained to British journalist Michael Cotton "it\'s a GT1.5 or GT1.4 at best". McLaren\'s overall win at Le Mans served as an eye opener and convinced Porsche that a 911-based GT1 car could indeed be a viable route to success.
+
+Unlike its competitors, Porsche decided to design a racing car first and then adopt it for road use to meet the homologation requirements. One of the biggest problems of the 993 GT2 was the location of the engine that did not permit the use of Venturis. These were essential to achieve sufficient downforce on the flat bottomed car so the designers decided to rotate the six cylinder engine around, making the GT1 the first mid-engined 911. With its Porsche 962-derived 3.2 litre Turbo engine, it was also the first water-cooled 911. The flat six produced around 600 bhp, which was about the same as the BMW V12 in the back of the McLaren.
+
+        </item>
+        <item>
+            BMW scored a surprise victory in the 1995 24 Hours of Le Mans as an engine supplier to McLaren. In the following two seasons the German manufacturer\'s Motorsport department increased their interest in sports car racing. During the 1997 season BMW even ran a works team with the latest Longtail version of the McLaren. Although several victories were scored in the FIA GT Championship, the writing was on the wall for the production based road car. The likes of Porsche, Toyota and Mercedes-Benz were lining up their purpose-built GT racers and open prototypes were also making a grand return especially in the long distance events. BMW opted to continue their sports car racing involvement with a bespoke prototype in 1998. The goal was another outright win at Le Mans but time was limited as the German company had already signed a deal with Williams to enter F1 in 2000.
+
+Instead of going at it themselves, BMW enlisted the help of their new partners Williams to help design the new racing car. The British racing team\'s design department, headed by Patrick Head, developed a straightforward carbon fiber sports racer around the Le Mans winning BMW V12 engine. Front and rear suspension were by double wishbones and push-rods that actuated the longitudinally mounted coil spring and damper units. Mounted amidships was the latest incarnation of the S70 V12 that had originally been designed as a road car engine. It displaced just under 6-liter and with restrictors fitted produced around 580 bhp.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/jaguar_xjr12</item>
+        <item>@drawable/mazda_787b</item>
+        <item>@drawable/peugeot_905</item>
+        <item>@drawable/peugeot_905</item>
+        <item>@drawable/dauer_962</item>
+        <item>@drawable/mclarenf1</item>
+        <item>@drawable/porsche_twr</item>
+        <item>@drawable/porsche_twr</item>
+        <item>@drawable/porsche_911</item>
+        <item>@drawable/bmw_v12_lmr</item>
+    </integer-array>
+    <string-array name="data_year">
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+
+    </string-array>
+</resources>
